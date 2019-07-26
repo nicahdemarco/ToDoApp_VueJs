@@ -1,3 +1,2 @@
 # ToDoApp_VueJs
-Aplicación ToDo básica  con VueJs
-Bootstrap 4
+Aplicación ToDo básica  con VueJs y Bootstrap 4
